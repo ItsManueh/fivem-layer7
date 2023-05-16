@@ -1,4 +1,4 @@
-# FiveM Blocked Layer7 Vulnerability
+# FiveM Blocked Layer7 Vulnerability (DDoS Attack & Get information)
 
  The main cause of the attack is the information that FiveM gives you open to the public on the web by putting ip/players.json or ip/info.json this makes possible the vulnerability known as Layer7.
 
